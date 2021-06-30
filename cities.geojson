@@ -1,0 +1,423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            115.82,
+            -34.6037
+          ],
+          [
+            103.1563,
+            -34.6037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            123.99410183014454,
+            -33.4489
+          ],
+          [
+            103.1563,
+            -33.4489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johannesburg"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            113.93430057416268,
+            -26.2041
+          ],
+          [
+            103.1563,
+            -26.2041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capetown"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            122.57996129032257,
+            -33.9249
+          ],
+          [
+            103.1563,
+            -33.9249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            123.0742,
+            -33.8688
+          ],
+          [
+            103.1563,
+            -33.8688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brisbane"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            114.09101612903227,
+            -27.4705
+          ],
+          [
+            103.1563,
+            -27.4705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Coast"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            114.1558870967742,
+            -28.0167
+          ],
+          [
+            103.1563,
+            -28.0167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Townsville"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            121.3906,
+            -19.259
+          ],
+          [
+            103.1563,
+            -19.259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Springs"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            113.59738888888889,
+            -23.698
+          ],
+          [
+            103.1563,
+            -23.698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uluru"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            113.89814444444444,
+            -25.3444
+          ],
+          [
+            103.1563,
+            -25.3444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            117.90786565295686,
+            -36.8509
+          ],
+          [
+            103.1563,
+            -36.8509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montevideo"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            116.30433141607749,
+            -34.9011
+          ],
+          [
+            103.1563,
+            -34.9011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio De Janeiro"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            113.81090000000002,
+            -22.9068
+          ],
+          [
+            103.1563,
+            -22.9068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Paulo"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            113.72230243902439,
+            -23.5505
+          ],
+          [
+            103.1563,
+            -23.5505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            124.45840008394292,
+            -16.4897
+          ],
+          [
+            103.1563,
+            -16.4897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Louis"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            118.91145714285715,
+            -20.1609
+          ],
+          [
+            103.1563,
+            -20.1609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canberra"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            117.67336444981456,
+            -35.2809
+          ],
+          [
+            103.1563,
+            -35.2809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            124.5301240003079,
+            -32.9283
+          ],
+          [
+            103.1563,
+            -32.9283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harare"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            122.18787499999995,
+            -17.8216
+          ],
+          [
+            103.1563,
+            -17.8216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuku'alofa"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            115.88218933333333,
+            -21.1393
+          ],
+          [
+            103.1563,
+            -21.1393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairns"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            123.14829994467497,
+            -16.9203
+          ],
+          [
+            103.1563,
+            -16.9203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suva"
+      },
+      "geometry": {
+        "type": "Linestring",
+        "coordinates": [
+          [
+            122.34899939142463,
+            -18.1405
+          ],
+          [
+            103.1563,
+            -18.1405
+          ]
+        ]
+      }
+    }
+  ]
+}
